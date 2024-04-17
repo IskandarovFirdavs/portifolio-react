@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/IskandarovFirdavs.github,io/portifolio-react/static/css/main.aa189f57.css",
-    "main.js": "/IskandarovFirdavs.github,io/portifolio-react/static/js/main.67346391.js",
-    "index.html": "/IskandarovFirdavs.github,io/portifolio-react/index.html",
-    "main.aa189f57.css.map": "/IskandarovFirdavs.github,io/portifolio-react/static/css/main.aa189f57.css.map",
-    "main.67346391.js.map": "/IskandarovFirdavs.github,io/portifolio-react/static/js/main.67346391.js.map"
+    "main.css": "/IskandarovFirdavs.github.io/portifolio-react/static/css/main.aa189f57.css",
+    "main.js": "/IskandarovFirdavs.github.io/portifolio-react/static/js/main.431fccb7.js",
+    "index.html": "/IskandarovFirdavs.github.io/portifolio-react/index.html",
+    "main.aa189f57.css.map": "/IskandarovFirdavs.github.io/portifolio-react/static/css/main.aa189f57.css.map",
+    "main.431fccb7.js.map": "/IskandarovFirdavs.github.io/portifolio-react/static/js/main.431fccb7.js.map"
   },
   "entrypoints": [
     "static/css/main.aa189f57.css",
-    "static/js/main.67346391.js"
+    "static/js/main.431fccb7.js"
   ]
 }
